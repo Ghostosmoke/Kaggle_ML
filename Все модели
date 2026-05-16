@@ -1,5 +1,5 @@
 
----
+
 
 ## 🧩 1. Как превращаем сырые данные в числа (Feature Engineering)
 
@@ -120,4 +120,4 @@
 | `Ensemble Voting` | Снижение ошибки отдельных моделей | Среднее вероятностей или majority vote |
 | `Chunked Inference` | 8M строк не лезут в VRAM | Цикл по кускам + `gc.collect()` |
 
----
+
